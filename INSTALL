@@ -1,0 +1,9 @@
+Building satoshimadness
+
+See doc/readme-qt.rst for instructions on building satoshimadness QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of satoshimadness.
+
+See doc/build-*.txt for instructions on building satoshimadnessd,
+the intended-for-services, no-graphical-interface, reference
+implementation of satoshimadness.
